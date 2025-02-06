@@ -1,0 +1,1 @@
+First you will have to intall pygame with pip install pygame command and webview with pip install webview. Then you run the program as you can see on issues folder. code must be on the same directory with .ttf fonts On issues folder you will find Hylian fonts and Bunny Holiday fonts technically fonts are infinite...so let's put the fun back into computing.
